@@ -1,0 +1,17 @@
+.cardContent {
+  display: flex;
+}
+
+.page-card {
+  .slider__item {
+    padding: 0;
+  }
+
+  .category {
+    margin: 40px 0;
+  }
+
+  &__content {
+    display: flex;
+  }
+}

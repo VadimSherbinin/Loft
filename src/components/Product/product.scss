@@ -1,0 +1,146 @@
+.product {
+  width: 263px;
+  display: block;
+  text-decoration: none;
+  position: relative;
+  min-height: 363px;
+
+  &:hover {
+    .product__drop-info {
+      display: block;
+    }
+  }
+
+  &__wrap {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #ffffff;
+    
+
+    &:hover {
+      z-index: 1000;
+      box-shadow: 0px 1px 9px rgba(0, 0, 0, 0.11);
+    }
+  }
+
+  &__like {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+    svg {
+      stroke: #000;
+      stroke-width: 1px;
+      opacity: 0.6;
+    }
+  }
+
+  &__like.active {
+    svg {
+      stroke: red;
+    }
+  }
+
+  &__image {
+    max-width: 200px;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+
+  &__btn {
+    width: 223px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background: #245462;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+  }
+
+  &__title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #414141;
+    margin-bottom: 6px;
+  }
+
+  &__subtitle {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+    color: #414141;
+    margin-bottom: 9px;
+  }
+
+  &__price {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #414141;
+    margin-bottom: 15px;
+  }
+
+  &__drop-info {
+    display: none;
+
+
+  }
+
+  &__size {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #414141;
+    margin-bottom: 8px;
+  }
+
+  &__info {
+    display: flex;
+    margin-bottom: 17px;
+
+    &-item {
+      h3 {
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 11px;
+        color: #c4c4c4;
+        margin-bottom: 8px;
+      }
+      p {
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 11px;
+        color: #414141;
+      }
+    }
+  }
+
+  &__x {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #414141;
+    margin: auto;
+  }
+  &__all {
+    max-width: 223px;
+    padding-left: 20px;
+  }
+}

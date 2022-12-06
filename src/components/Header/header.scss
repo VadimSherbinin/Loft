@@ -1,0 +1,52 @@
+.header {
+  padding: 10px 0 12px;
+  background: #313131;
+
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+    color: #ffffff;
+
+    &:not(:last-child) {
+      margin-right: 30px;
+    }
+  }
+
+  &__buttons {
+    display: flex;
+    align-items: center;
+  }
+
+  &__phone,
+  &__delivary {
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    svg {
+      margin-right: 10px;
+      }
+    }
+  
+
+  &__delivary {
+    background: none;
+    border: none;
+  }
+
+
+}

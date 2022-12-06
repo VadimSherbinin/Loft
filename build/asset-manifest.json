@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3f317d0.css",
+    "main.js": "/static/js/main.5d16f51a.js",
+    "static/media/sliderCard-bg-01.png": "/static/media/sliderCard-bg-01.077c03bb4c84c4b73ac0.png",
+    "static/media/slider-bg-01.jpg": "/static/media/slider-bg-01.3c7722cf52ec3480f3e9.jpg",
+    "static/media/Roboto-Medium.woff": "/static/media/Roboto-Medium.e624b10d53c919bd7496.woff",
+    "static/media/Roboto-Black.woff": "/static/media/Roboto-Black.a3513eaf0ad708fff3ca.woff",
+    "static/media/Roboto-Bold.woff": "/static/media/Roboto-Bold.9fa4a8113c081e9b3138.woff",
+    "static/media/Roboto-Regular.woff": "/static/media/Roboto-Regular.0944be1093c62cedb919.woff",
+    "static/media/Roboto-Light.woff": "/static/media/Roboto-Light.c981701f695c76440cb3.woff",
+    "static/media/Roboto-Thin.woff": "/static/media/Roboto-Thin.43cf5af8ceefc30114f7.woff",
+    "static/media/sprite.svg": "/static/media/sprite.a3563ba1bf154dee6de8240e551a6f5f.svg",
+    "static/media/slider-bg-02.jpg": "/static/media/slider-bg-02.41abc18d7f8e23cea34a.jpg",
+    "static/media/Roboto-Medium.woff2": "/static/media/Roboto-Medium.57b8a81c7519e4d6b555.woff2",
+    "static/media/Roboto-Black.woff2": "/static/media/Roboto-Black.cd5a79c185e92ebe6b94.woff2",
+    "static/media/Roboto-Bold.woff2": "/static/media/Roboto-Bold.b21da07c934a28b2fef3.woff2",
+    "static/media/Roboto-Regular.woff2": "/static/media/Roboto-Regular.9d43b86421e004e704b9.woff2",
+    "static/media/Roboto-Light.woff2": "/static/media/Roboto-Light.4ca616225439b353c722.woff2",
+    "static/media/Roboto-Thin.woff2": "/static/media/Roboto-Thin.8e9578cce5d551036e41.woff2",
+    "static/media/sliderCard-bg-04.jpeg": "/static/media/sliderCard-bg-04.05cd8283e9e5e466e445.jpeg",
+    "static/media/sliderCard-bg-06.jpeg": "/static/media/sliderCard-bg-06.31e35547ab8215bd4d59.jpeg",
+    "static/media/sliderCard-bg-02.jpeg": "/static/media/sliderCard-bg-02.3c76e459e14f1cdfe8aa.jpeg",
+    "static/media/sliderCard-bg-03.jpeg": "/static/media/sliderCard-bg-03.b464e71418e4d4bd2d3e.jpeg",
+    "static/media/sliderCard-bg-05.jpeg": "/static/media/sliderCard-bg-05.139c2685b63febec6045.jpeg",
+    "index.html": "/index.html",
+    "static/media/slider-arrow-right.svg": "/static/media/slider-arrow-right.6e30b9f50ae81243e39b.svg",
+    "static/media/slider-arrow-left.svg": "/static/media/slider-arrow-left.9c007cb0bad1a94a7afb.svg",
+    "static/media/sliderCard-arrow-left.svg": "/static/media/sliderCard-arrow-left.2c0a45a0bdc312f2d03e.svg",
+    "static/media/sliderCard-arrow-right.svg": "/static/media/sliderCard-arrow-right.a02cf9a66b40e2f0d015.svg",
+    "main.e3f317d0.css.map": "/static/css/main.e3f317d0.css.map",
+    "main.5d16f51a.js.map": "/static/js/main.5d16f51a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f317d0.css",
+    "static/js/main.5d16f51a.js"
+  ]
+}

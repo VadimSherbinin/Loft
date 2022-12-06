@@ -1,0 +1,18 @@
+.product-list {
+  &__title {
+    margin-bottom: 35px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #414141;
+  }
+
+  &__content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 29px 29px 
+  }
+}

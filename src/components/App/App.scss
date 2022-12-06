@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  // align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.main {
+  min-height: calc(100vh - 330px);
+  justify-self: flex-end;
+}
